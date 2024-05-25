@@ -1,0 +1,20 @@
+Ignore object files and executables
+*.o *.out
+
+Ignore compiled binaries
+*.exe *.dll *.so
+
+Ignore generated files
+*.a *.pyc *.class
+
+Ignore build directory
+build/
+
+Ignore dependency directory
+deps/
+
+Ignore log files
+*.log
+
+Ignore backup files
+*~ *.bak
